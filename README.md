@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trishant131104&label=Profile%20views&color=0e75b6&style=flat" alt="trishant131104" /> </p>
-
 - 🔭 I’m currently working on [IITI Mess-Website](https://github.com/DaemonLab/Mess-Website)
 
 - 🌱 I’m currently learning **Deployment tools**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **trishanttalluri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o3rLzghKLfMt7BBu2WjVlEjbFuyp2tw7/view?usp=drive_link](https://drive.google.com/file/d/1o3rLzghKLfMt7BBu2WjVlEjbFuyp2tw7/view?usp=drive_link)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1o3rLzghKLfMt7BBu2WjVlEjbFuyp2tw7/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
